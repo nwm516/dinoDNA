@@ -1,2 +1,2 @@
 # dinoDNA
-A place to make dino--err, TESTING. Yes. A repo. For testing. 
+A repo to make dino--err, TESTING. Yes. A repo STRICTLY for testing non-dino related stuff... 
