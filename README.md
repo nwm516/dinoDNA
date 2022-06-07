@@ -1,2 +1,2 @@
-# dinoDNA
-A repo to make dino--err, TESTING. Yes. A repo STRICTLY for testing non-dino related stuff... 
+# Group-5
+Final group project
